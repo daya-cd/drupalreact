@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
 <h1 align="center">
-  Gatsby + React + GraphQL + Drupal CMS
+  Gatsby + React + GraphQL = Static site
 </h1>
 
 

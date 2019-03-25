@@ -20,7 +20,6 @@ export default () => (
   `}
         render={data=>(
             <header className={styles.container}>
-
                 <h1>{data.site.siteMetadata.title}</h1>
                 <h2>Header component</h2>
                 <div className={styles.row}>
