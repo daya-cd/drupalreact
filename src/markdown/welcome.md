@@ -3,6 +3,7 @@ title: "Welcome to my new Gatsby blog!"
 date: "2019-01-01"
 image: "https://picsum.photos/300/150/?random"
 keywords: "developers"
+path: "welcome"
 ---
 
 
